@@ -1,23 +1,13 @@
----
-title: CyrisXD
-date: '2020-07-14'
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'Chieh Tsai'
----
+### Hi there 👋, my name is Chieh
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![Hey there, I'm Emery. I'm a software developer, a maker and infosec enthusiast. Check out my work]
-<!--
-**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project for better learning about github, just try any new here and welcome to see my work!
 
-Here are some ideas to get you started:
+Skills: Python/C/Verilog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
