@@ -6,8 +6,7 @@ categories: ["creativity", "all-profile"]
 githubUsername: 'Chieh Tsai'
 ---
 
-![Hey there, I'm Emery. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
+![Hey there, I'm Emery. I'm a software developer, a maker and infosec enthusiast. Check out my work]
 <!--
 **CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
