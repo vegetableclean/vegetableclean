@@ -54,22 +54,6 @@
 </div>
 
 
-
-
-###
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=vegetableclean&theme=dark&hide_border=true" 
-    height="200"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-###
-
-
-
 <p align="center">
 ⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
 </p>
