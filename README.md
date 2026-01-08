@@ -35,7 +35,7 @@
 
 - 🇺🇸 **English** — Professional working proficiency  
 - 🇹🇼 **Mandarin Chinese** — Native  
-- 🇯🇵 **Japanese** — Native / Professional  
+- 🇯🇵 **Japanese** — Basic
 
 ---
 
