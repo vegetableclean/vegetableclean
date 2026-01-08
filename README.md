@@ -23,19 +23,19 @@
 ## 🚘 Research & Engineering Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="55" alt="opencv" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="35" alt="opencv" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ros" height="55" alt="ros2" />
+  <img src="https://skillicons.dev/icons?i=ros" height="35" alt="ros2" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="55" alt="ubuntu" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="35" alt="ubuntu" />
 </div>
 
 ---
