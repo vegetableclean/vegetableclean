@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="70%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1224,100:1e293b&section=header&reversal=true" />
-</div>
 
 <h1 align="center"> Chieh Tsai (Emery)</h1>
 
