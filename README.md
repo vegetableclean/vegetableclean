@@ -17,6 +17,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vegetableclean.vegetableclean" />
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mandarin-Native-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-Basic-111827?style=for-the-badge" />
+</div>
 ---
 
 ## 🚘 Research & Engineering Stack
@@ -38,14 +43,6 @@
 </div>
 
 ---
-
-## 🌏 Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mandarin-Native-E11D48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Japanese-Basic-111827?style=for-the-badge" />
-</div>
 
 ---
 
