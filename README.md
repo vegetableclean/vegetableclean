@@ -53,6 +53,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vegetableclean&theme=github_dark" height="180" />
 </div>
 
+
+
+###
+<p align="center">
+⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
+</p>
+
+### Activities
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vegetableclean/vegetableclean/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vegetableclean/vegetableclean/output/pacman-contribution-graph.svg">
@@ -60,6 +68,3 @@
 </picture>
 
 ###
-<p align="center">
-⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
-</p>
