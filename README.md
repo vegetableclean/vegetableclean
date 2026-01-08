@@ -103,7 +103,7 @@ Real-time dashboard demonstrating **independent distance estimation** from:
 ## 📫 Contact
 
 <div align="center">
-  <a href="mailto:your_email@arizona.edu">
+  <a href="mailto:vegetableclean@arizona.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vegetableclean">
