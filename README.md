@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1224,100:1e293b&section=header&reversal=true" />
 </div>
 
-<h1 align="center">Hi 👋 I'm Chieh (Emery)</h1>
+<h1 align="center"> Chieh Tsai (Emery)</h1>
 
 <p align="center">
   <b>PhD Student · Autonomous Driving · Perception Security & Resilience</b><br>
