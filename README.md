@@ -54,7 +54,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mandarin-Native-E11D48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Japanese-Native-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-Basic-111827?style=for-the-badge" />
 </div>
 
 ---
