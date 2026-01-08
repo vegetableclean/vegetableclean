@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1224,100:1e293b&section=header&reversal=true" />
+</div>
+
 <h1 align="center">Hi 👋 I'm Chieh (Emery)</h1>
 
 <p align="center">
@@ -5,13 +9,17 @@
   University of Arizona
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;Resilience+%26+Security&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;Resilience+%26+Security;Multi-Sensor+Perception+(LiDAR+%2B+Depth)&center=true&width=650&height=45">
 </p>
 
-### 🚘 Research & Engineering Stack
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vegetableclean.vegetableclean" />
+</p>
+
+---
+
+## 🚘 Research & Engineering Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python" />
@@ -31,7 +39,7 @@
 
 ---
 
-### 🧠 Research Focus
+## 🧠 Research Focus
 
 - 🚗 Autonomous vehicle safety & robustness  
 - 📡 Multi-sensor perception (LiDAR / Depth / Camera)  
@@ -41,28 +49,28 @@
 
 ---
 
-### 🌏 Languages
+## 🌏 Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mandarin-Native-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Japanese-Native-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mandarin-Native-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-Native-111827?style=for-the-badge" />
 </div>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vegetableclean&theme=github_dark" height="180" />
 </div>
 
+---
 
-
-###
 <p align="center">
-⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
+  ⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
 </p>
 
-
-###
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1224,100:1e293b&section=footer&reversal=true" />
+</div>
