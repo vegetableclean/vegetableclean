@@ -69,18 +69,18 @@
 
 ---
 
-### 🔗 Connect
+###
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@arizona.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vegetableclean">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=vegetableclean&theme=dark&hide_border=true" 
+    height="200"
+    alt="GitHub contribution streak"
+  />
 </div>
 
----
+###
+
 
 <p align="center">
 ⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
