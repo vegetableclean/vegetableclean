@@ -61,10 +61,8 @@
 </p>
 
 ### Activities
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vegetableclean/vegetableclean/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vegetableclean/vegetableclean/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vegetableclean/vegetableclean/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;LiDAR+%2B+Depth;Resilience+%26+Security&center=true&width=600&height=45">
+</p>
 
 ###
