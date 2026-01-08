@@ -67,10 +67,4 @@
 
 ---
 
-<p align="center">
-  ⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
-</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1224,100:1e293b&section=footer&reversal=true" />
-</div>
