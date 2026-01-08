@@ -42,10 +42,7 @@
 ## 🧠 Research Focus
 
 - 🚗 Autonomous vehicle safety & robustness  
-- 📡 Multi-sensor perception (LiDAR / Depth / Camera)  
 - 🛡️ Perception attacks & trust-aware resilience  
-- ⏱️ Distance estimation & stopping behavior  
-- 🔐 Secure and reliable autonomy  
 
 ---
 
