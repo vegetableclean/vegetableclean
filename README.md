@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>PhD Student · Autonomous Driving · Perception Security & Resilience</b><br>
-  University of Arizona · USA
+  University of Arizona · United States
 </p>
 
 <p align="center">
