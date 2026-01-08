@@ -53,12 +53,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vegetableclean&theme=github_dark" height="180" />
 </div>
 ###
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img 
+    src="https://streak-stats.demolab.com?user=vegetableclean&theme=dark&hide_border=true" 
+    height="200"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 ###
+
+
 
 ---
 
