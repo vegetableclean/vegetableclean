@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Japanese-Basic-111827?style=for-the-badge" />
 </div>
 
-## 🚘 Research & Engineering Stack
+## 🚘 Research & Engineering Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python" />
