@@ -94,17 +94,10 @@ Real-time dashboard demonstrating **independent distance estimation** from:
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vegetableclean&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vegetableclean&show_icons=true&theme=algolia&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vegetableclean&theme=dracula" />
-
-</div>
-
----
 
 ## 📫 Contact
 
