@@ -39,13 +39,6 @@
 
 ---
 
-## 🧠 Research Focus
-
-- 🚗 Autonomous vehicle safety & robustness  
-- 🛡️ Perception attacks & trust-aware resilience  
-
----
-
 ## 🌏 Languages
 
 <div align="center">
