@@ -5,7 +5,6 @@
   <b>PhD Student · Autonomous Driving · Perception Security & Resilience</b><br>
   University of Arizona · United States
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;Resilience+%26+Security;Multi-Sensor+Perception+(LiDAR+%2B+Depth)&center=true&width=650&height=35">
 </p>
@@ -19,9 +18,7 @@
   <img src="https://img.shields.io/badge/Mandarin-Native-E11D48?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Japanese-Basic-111827?style=for-the-badge" />
 </div>
-
 ## 🚘 Research & Engineering Skills
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python" />
   <img width="10" />
