@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;Resilience+%26+Security&center=true&width=600&height=45">
+</p>
+
 ### 🚘 Research & Engineering Stack
 
 <div align="center">
@@ -60,9 +64,5 @@
 ⭐ Interested in autonomous systems, safety, or resilient AI? Feel free to connect.
 </p>
 
-### Activities
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;LiDAR+%2B+Depth;Resilience+%26+Security&center=true&width=600&height=45">
-</p>
 
 ###
